@@ -1,6 +1,8 @@
-public class world {asdhuashdah
-    saidhi
-        sdjaosod
-    asdasasdhuhu yuannajskdjdkasj
-            ausdiworlddddxxx
-}dee
+import java.util.Scanner;
+
+public class world {
+    public static void main(String[] args){
+        Scanner input=new Scanner(System.in);
+        System.out.println();
+    }
+}
